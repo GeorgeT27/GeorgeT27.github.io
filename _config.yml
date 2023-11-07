@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jessie Chen"
+title                    : "George Tang"
 title_separator          : "-"
-name                     : &name "Jessie Chen"
+name                     : &name "George Tang"
 description              : &description "personal description"
 url                      : https://georget27.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jessie Chen"
+  name             : "George Tang"
   avatar           : "profile.png"
   bio              : "3rd year student at UCL,UK"
   location         : "London,UK"
