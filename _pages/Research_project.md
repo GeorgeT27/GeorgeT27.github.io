@@ -5,7 +5,7 @@ permalink: /research_project/
 author_profile: true
 ---
 
-[## Simulation and Analysis of Modon Motion in an Inviscid and Confined Fluid Environment ##](https://georget27.github.io/files/Modon.pdf)
+[ Simulation and Analysis of Modon Motion in an Inviscid and Confined Fluid Environment ](https://georget27.github.io/files/Modon.pdf)
 
 The objective of this paper is to explore the nature of dipole vortices and investigate their interaction dynamics. The analysis begins in Section 2, where we derive the quasigeostrophic equation by starting with the basic rotating shallow water equations. This equation proves to be invaluable for the examination of dipole vortices.
 
