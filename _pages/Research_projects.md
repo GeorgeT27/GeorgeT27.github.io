@@ -10,7 +10,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.researchproject reversed %}
+{% for post in site.researchprojects reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
