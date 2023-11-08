@@ -1,7 +1,7 @@
 ---
 title: "Simulation and Analysis of Modon Motion in an Inviscid and
 Confined Fluid Environment"
-collection: researchproject
+collection: researchprojects
 permalink: /research_project/Modon
 excerpt: 'This paper delves into the simulation of dipole vortices, and it reflects a collaborative effort between my supervisor, Dr. Matthew Crowe, and me. Dr. Crowe, who instructed me in the course MATH0015 Fluid Mechanics, provided invaluable guidance as we extended our study into the non-viscous fluid domain.'
 date: 2023-07-23
