@@ -30,6 +30,6 @@ In section 6, I propose treating the dipole vortices as a point vortex model. Wi
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.research-projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
