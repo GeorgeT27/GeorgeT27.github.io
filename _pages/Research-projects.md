@@ -22,7 +22,8 @@ I utilized the Dedalus package in Python to conduct simulations of dipole vortic
 
 In section 6, I propose treating the dipole vortices as a point vortex model. Within this chapter, I employ Python to generate plots illustrating the trajectories of the point vortices. Remarkably, I discover that their paths coincide with the simulations presented in section 5.
 
-
+## Meal Bolus Calculator (In progress)
+• Designing a personalized meal bolus calculator for type-1 Diabetes measurement under time variability.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
